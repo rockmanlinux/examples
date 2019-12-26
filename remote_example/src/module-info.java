@@ -1,0 +1,2 @@
+module remote_example {
+}
